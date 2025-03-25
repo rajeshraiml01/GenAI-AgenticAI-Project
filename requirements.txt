@@ -1,0 +1,16 @@
+langchain
+python-dotenv # This is the python-dotenv plugin for langchain load environment variables
+langchain-openai # This is the openai plugin for langchain
+langchain-core
+langchain-community # This is the community plugin for langchain for RAG and other models
+bs4 # This is the beautifulsoup4 plugin for langchain for web scraping
+faiss-cpu # This is the faiss-cpu plugin for langchain for similarity search Facebook AI Similarity Search
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+langchain-groq
+langgraph
+langgraph-cli[inmem]  # langgraph studio
